@@ -1,4 +1,4 @@
-module github.com/LuffyVairez/orange
+module github.com/LuffyVairez/Orange
 
 go 1.19
 
